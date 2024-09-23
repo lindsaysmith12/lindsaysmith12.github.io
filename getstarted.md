@@ -85,6 +85,7 @@ Edit the `_config.yml` file to change any settings you want. To edit the file, c
 
 Note that in the video above only one setting in the `_config.yml` file is edited. **You should actually go through the rest of the settings as well. Don't be lazy, go through all the settings!**
 </div>
+
 ### 4. Congratulations! You have a website!
 
 After you save your changes to the `_config.yml` file (by clicking on *Commit changes* as the video tutorial shows), your website should be ready in a minute or two at `https://<yourusername>.github.io`. Every time you make a change to any file, your website will get rebuilt and should be updated in about a minute or so. Your website will be initialized with several sample blog posts and a couple other pages.
@@ -230,15 +231,7 @@ This template was not made *entirely* from scratch. I'd like to give special tha
 I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/), [Jekyll Themes](http://jekyllthemes.org/), and another [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories.
 
 <style>
-   .gs-section-01 h3 { 
-   color: red
-}
-
-.gs-section-02 h3 { 
-   color: blue
-}
-
-.gs-section-03 h3 { 
-   color: green
-}
+.gs-section-01 h3 { color: red; }
+.gs-section-02 h3 { color: blue; }
+.gs-section-03 h3 { color: green; }
 </style>
